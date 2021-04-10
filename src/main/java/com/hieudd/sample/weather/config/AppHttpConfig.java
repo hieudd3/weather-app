@@ -1,4 +1,4 @@
-package com.oddle.app.weather.config;
+package com.hieudd.sample.weather.config;
 
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Value;

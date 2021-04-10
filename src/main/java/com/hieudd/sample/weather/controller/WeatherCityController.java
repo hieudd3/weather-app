@@ -1,4 +1,4 @@
-package com.oddle.app.weather.controller;
+package com.hieudd.sample.weather.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;

@@ -1,7 +1,7 @@
-package com.oddle.app.weather.advice;
+package com.hieudd.sample.weather.advice;
 
-import com.oddle.app.weather.exception.WeatherAppException;
-import com.oddle.app.weather.glossary.ErrorCode;
+import com.hieudd.sample.weather.exception.WeatherAppException;
+import com.hieudd.sample.weather.glossary.ErrorCode;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;

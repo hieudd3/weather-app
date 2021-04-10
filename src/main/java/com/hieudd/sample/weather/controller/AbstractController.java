@@ -1,4 +1,4 @@
-package com.oddle.app.weather.controller;
+package com.hieudd.sample.weather.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 

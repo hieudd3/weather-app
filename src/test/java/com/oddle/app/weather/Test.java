@@ -1,4 +1,4 @@
-package com.oddle.app.weather;
+package com.hieudd.sample.weather;
 import java.util.*;
 
 public class Test {

@@ -1,4 +1,4 @@
-package com.oddle.app.weather.config;
+package com.hieudd.sample.weather.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

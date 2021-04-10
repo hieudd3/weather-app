@@ -1,6 +1,6 @@
-package com.oddle.app.weather.exception;
+package com.hieudd.sample.weather.exception;
 
-import com.oddle.app.weather.glossary.ErrorCode;
+import com.hieudd.sample.weather.glossary.ErrorCode;
 
 public class WeatherAppException extends RuntimeException {
     /**

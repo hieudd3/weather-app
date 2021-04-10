@@ -1,4 +1,4 @@
-package com.oddle.app.weather.service;
+package com.hieudd.sample.weather.service;
 
 public interface IWeatherCityService {
 }

@@ -1,4 +1,4 @@
-package com.oddle.app.weather.domain.po;
+package com.hieudd.sample.weather.domain.po;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

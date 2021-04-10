@@ -1,4 +1,4 @@
-package com.oddle.app.weather.glossary;
+package com.hieudd.sample.weather.glossary;
 
 import static javax.servlet.http.HttpServletResponse.*;
 
